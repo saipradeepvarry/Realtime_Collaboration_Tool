@@ -116,8 +116,7 @@
   .ContactItem svg {
     font-size: 22px;
   }
-  
-  /* Responsive */
+
   @media (max-width: 480px) {
     .PopupWrapper {
       width: 95%;
